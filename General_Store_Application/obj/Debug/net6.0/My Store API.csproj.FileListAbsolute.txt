@@ -1,0 +1,45 @@
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.csproj.AssemblyReference.cache
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.AssemblyInfoInputs.cache
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.AssemblyInfo.cs
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.csproj.CoreCompileInputs.cache
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.MvcApplicationPartsAssemblyInfo.cs
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.MvcApplicationPartsAssemblyInfo.cache
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\appsettings.Development.json
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\appsettings.json
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\My Store API.exe
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\My Store API.deps.json
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\My Store API.runtimeconfig.json
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\My Store API.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\My Store API.pdb
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Data\Web Services\My Store API\My Store API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets\msbuild.My Store API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets\msbuild.build.My Store API.props
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.My Store API.props
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.My Store API.props
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\scopedcss\bundle\My Store API.styles.css
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.csproj.CopyComplete
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.dll
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\refint\My Store API.dll
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.pdb
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\My Store API.genruntimeconfig.cache
+D:\Data\Web Services\My Store API\My Store API\obj\Debug\net6.0\ref\My Store API.dll
