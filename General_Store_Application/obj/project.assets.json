@@ -1305,11 +1305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Web Services\\General-Store-Application\\My Store API\\General_Store_Application.csproj",
+      "projectUniqueName": "D:\\Data\\Web Services\\General-Store-Application\\General_Store_Application\\General_Store_Application.csproj",
       "projectName": "General_Store_Application",
-      "projectPath": "D:\\Data\\Web Services\\General-Store-Application\\My Store API\\General_Store_Application.csproj",
+      "projectPath": "D:\\Data\\Web Services\\General-Store-Application\\General_Store_Application\\General_Store_Application.csproj",
       "packagesPath": "C:\\Users\\jayes\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Web Services\\General-Store-Application\\My Store API\\obj\\",
+      "outputPath": "D:\\Data\\Web Services\\General-Store-Application\\General_Store_Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jayes\\AppData\\Roaming\\NuGet\\NuGet.Config",
