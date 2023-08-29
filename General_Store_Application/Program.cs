@@ -1,6 +1,7 @@
 using General_Store_Application.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using My_Store_API.Services;
 using System.Text;
 
 namespace General_Store_Application
@@ -12,7 +13,7 @@ namespace General_Store_Application
 			var builder = WebApplication.CreateBuilder(args);
 
 			// Add services to the container.
-			builder.Services.AddScoped<IAuthenticateUser, IAuthenticateUser>();
+			builder.Services.AddScoped<IAuthenticateUser, AuthenticateUserService>();
 
 			builder.Services.AddControllers();
 			builder.Services.AddAuthentication(option =>

@@ -2,9 +2,9 @@
 {
 	public class Items
 	{
-		public int itemId;
-		public string itemName;
-		public double itemPrice;
-		public int itemQuantity;
+		public int itemId { set; get; }
+		public string itemName { set; get; }
+		public double itemPrice { set; get; }
+		public int itemQuantity { set; get; }
 	}
 }

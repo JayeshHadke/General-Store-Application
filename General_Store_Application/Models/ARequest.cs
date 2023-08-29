@@ -2,7 +2,7 @@
 {
 	public class ARequest
 	{
-		public string userName;
-		public string password;
+		public string userName { set; get; }
+		public string password { set; get; }
 	}
 }

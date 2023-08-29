@@ -11,9 +11,9 @@ namespace My_Store_API.Services
 		{
 			connection = new SqlConnection(configuration.GetConnectionString("myStore"));
 		}
-		public Users? AuthenticateUser(string userName, string password)
+		public User? AuthenticateUser(string userName, string password)
 		{
-			List<Users> users = new List<Users>();
+			List<User> users = new List<User>();
 			SqlCommand command = new SqlCommand("select * from users", connection);
 			try
 			{
@@ -21,7 +21,7 @@ namespace My_Store_API.Services
 				SqlDataReader reader = command.ExecuteReader();
 				while (reader.Read())
 				{
-					users.Add(new Users() { userId = (int)reader["userId"], userName = (string)reader["userName"], password = (string)reader["password"], userRole = (string)reader["userRole"], userEmail = (string)reader["userEmail"], userPhoneNo = (long)reader["userPhoneNo"] });
+					users.Add(new User() { userId = (int)reader["userId"], userName = (string)reader["userName"], password = (string)reader["password"], userRole = (string)reader["userRole"], userEmail = (string)reader["userEmail"], userPhoneNo = (long)reader["userPhoneNo"] });
 				}
 			}
 			catch (Exception ex) { throw; }

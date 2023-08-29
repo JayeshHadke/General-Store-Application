@@ -21,10 +21,7 @@ namespace General_Store_Application.Interfaces
 		public List<Items> manageItemStore(int id, Items item);
 
 		// accessible by admin
-		public List<Users> addUserStore(Users user);
 		public List<Items> deleteItemStore(int itmeId);
-		public List<Users> deleteUserStore(int userId);
-		public List<Users> manageUserStore(int userId, Users user);
 
 	}
 }

@@ -2,8 +2,8 @@
 {
 	public class ARespons
 	{
-		public string userName;
-		public string token;
-		public string userRole;
+		public string userName { set; get; }
+		public string token { set; get; }
+		public string userRole { set; get; }
 	}
 }

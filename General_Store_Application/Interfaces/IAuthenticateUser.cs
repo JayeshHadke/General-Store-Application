@@ -4,6 +4,6 @@ namespace General_Store_Application.Interfaces
 {
 	public interface IAuthenticateUser
 	{
-		public Users? AuthenticateUser(string userName, string password);
+		public User? AuthenticateUser(string userName, string password);
 	}
 }
