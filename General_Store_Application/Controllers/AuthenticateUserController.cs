@@ -21,8 +21,8 @@ namespace My_Store_API.Controllers
 			this.configuration = configuration;
 			this.authenticateUser = authenticateUser;
 		}
-		[AllowAnonymous]
 		[HttpPost]
+		[AllowAnonymous]
 		public IActionResult AuthenticateUser([FromBody] ARequest request)
 		{
 			User? user = authenticateUser.AuthenticateUser(request.userName, request.password);

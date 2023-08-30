@@ -4,8 +4,8 @@ namespace General_Store_Application.Interfaces
 {
 	public interface IUsers
 	{
-		public List<User> addUser(User user);
-		public List<User> deleteUser(int userId);
-		public List<User> manageUser(int userId, User user);
+		public bool addUser(User user);
+		public bool deleteUser(int userId);
+		public bool manageUser(int userId, User user);
 	}
 }

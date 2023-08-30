@@ -14,6 +14,7 @@ namespace General_Store_Application
 
 			// Add services to the container.
 			builder.Services.AddScoped<IAuthenticateUser, AuthenticateUserService>();
+			builder.Services.AddScoped<IUsers, UsersServices>();
 
 			builder.Services.AddControllers();
 			builder.Services.AddAuthentication(option =>
@@ -49,7 +50,6 @@ namespace General_Store_Application
 
 			app.UseAuthentication();
 			app.UseAuthorization();
-
 
 			app.MapControllers();
 
