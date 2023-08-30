@@ -5,10 +5,12 @@ namespace General_Store_Application.Interfaces
 	public interface IStore
 	{
 
-		// accessible by all users
+		// accessible by anonymous user
 		public List<Items> getItems();
 		public List<Items> getItemsByName();
 		public List<Items> getItemsById();
+
+		// accessible by all users
 		public string buyItem(Items item);
 		public string buyItems(List<Items> items);
 
