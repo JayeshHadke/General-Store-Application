@@ -29,7 +29,7 @@ namespace My_Store_API.Controllers
 			if (user != null)
 			{
 				string jwtToken = getToken(user);
-				ARespons respons = new ARespons() { userName = user.userName, token = jwtToken, userRole = user.userRole };
+				AResponse respons = new AResponse() { userName = user.userName, token = jwtToken, userRole = user.userRole };
 				return Ok(respons);
 			}
 			else

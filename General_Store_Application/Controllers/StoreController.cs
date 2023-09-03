@@ -1,15 +1,26 @@
 ﻿using General_Store_Application.Models;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using My_Store_API.Models;
 
-namespace General_Store_Application.Interfaces
+namespace My_Store_API.Controllers
 {
-	public interface IStore
+	[Route("api/[controller]")]
+	[ApiController]
+	public class StoreController : ControllerBase
 	{
 
 		// accessible by anonymous user
-		public List<Items> getItems();
-		public List<Items> getItemsByName(string itemName);
-		public List<Items> getItemsById(int itemId);
+		[HttpGet]
+		[AllowAnonymous]
+		[Route("getItems")]
+		public IActionResult getItems()
+		{
+			return Ok();
+		}
+		public IActionResult getItemsByName(string itemName) { return Ok(); }
+		public IActionResult getItemsById(int itemId) { return Ok(); }
 
 		// accessible by all users
 		public BuyItemResponse buyItem(BuyItemRequest itemRequest);
